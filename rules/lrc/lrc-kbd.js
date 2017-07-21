@@ -3,7 +3,7 @@
 
 	var lrc_kbd = {
 		id: 'lrc-kbd',
-		name: 'لۊری شومالی',
+		name: 'لۊری مینجایی',
 		description: 'Northern Luri Keyboard Layout',
 		date: '2015-05-11',
 		URL: 'http://github.com/wikimedia/jquery.ime',
@@ -71,7 +71,7 @@
 			[ 'W', 'ۉ' ],
 			[ 'E', 'وٙ' ],
 			[ 'R', 'ً' ],
-			[ 'T', 'و' ],
+			[ 'o', 'و' ],
 			[ 'Y', 'أ' ],
 			[ 'U', 'ە' ],
 			[ 'I', 'ؤ' ],
